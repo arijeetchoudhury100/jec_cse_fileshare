@@ -92,7 +92,7 @@
 
 		<div class="container">
 			<h3><?=$msg?></h3>
-			<h3><a href="login.html">You can login now</a></h3>
+			<h3><a href="loginmain.php">You can login now</a></h3>
 		<div>
 	</body>
 </html>
