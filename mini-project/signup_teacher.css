@@ -1,0 +1,12 @@
+body{
+	background-image:url('cse2.jpg');
+}
+.container{
+	height:400px;
+	width:400px;
+	font-family:sans-serif;
+	background-color:white;
+	text-align:center;
+	margin:auto;
+	border-radius:10px;
+}
