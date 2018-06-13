@@ -61,7 +61,7 @@
 
 		<div class="container">
 			<h3><?=$msg?></h3>
-			<h3><a href="login.html">Go to login page!</h3>
+			<h3><a href="loginmain.php">Go to login page!</h3>
 		<div>
 	</body>
 </html>
