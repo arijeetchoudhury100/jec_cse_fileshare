@@ -1,7 +1,7 @@
-# jec_cse_fileshare
+# jec_cse_fileshare.
 A simple file sharing site between teachers and students.
-Copy the mini-project directory to /var/www/html/
-download the fileshare.sql file
+Copy the mini-project directory to /var/www/html/.
+download the fileshare.sql file.
 create a database in MySQL/mariadb by the name "project".
 run the following command:
 mysql -u <username> -p < <path to fileshare.sql>
